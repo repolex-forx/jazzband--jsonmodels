@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "jsonmodels",
+  "versions": [
+    {
+      "commit": "0770de53806f00cb9a668cee690c3e247aeed4fd",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:26:42.856426+00:00"
+    }
+  ]
+}
